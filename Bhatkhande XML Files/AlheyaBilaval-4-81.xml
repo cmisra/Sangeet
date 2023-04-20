@@ -1,0 +1,37 @@
+<swarlipi>
+  <info>
+    <title>AlheyaBilaval-4-81</title>
+    <composer>Vishnu Narayan Bhatkhande</composer>
+    <notation-system>Bhatkhande</notation-system>
+    <year>1965</year>
+    <genre>Hindusthani</genre>
+  </info>
+  <taal>tritaal</taal>
+  <raag>Alheya Bilaval</raag>
+  <thaat>Bilaval</thaat>
+  <sheet>
+    <lines>
+      <line index="0">
+        <col index="0">&lt;sup&gt;n&lt;/sup&gt;su su </col>
+      </line>
+      <line index="1">
+        <col index="0">&lt;sup&gt;n&lt;/sup&gt;d p &lt;sup&gt;g&lt;/sup&gt;m &lt;sup&gt;r&lt;/sup&gt;g </col>
+        <col index="1">&lt;sup&gt;g&lt;/sup&gt;p _ n &lt;sup&gt;d&lt;/sup&gt;n </col>
+        <col index="2">su _ su su </col>
+        <col index="3">n &lt;sup&gt;d&lt;/sup&gt;n &lt;sup&gt;d&lt;/sup&gt;p p </col>
+      </line>
+      <line index="2">
+        <col index="0">&lt;sup&gt;n&lt;/sup&gt;@dn @suru su su </col>
+        <col index="1">&lt;sup&gt;n&lt;/sup&gt;d p @mg @mr </col>
+        <col index="2">&lt;sup&gt;m&lt;/sup&gt;g m p @mg </col>
+        <col index="3">&lt;sup&gt;m&lt;/sup&gt;r _ s s </col>
+      </line>
+      <line index="3">
+        <col index="0">&lt;sup&gt;nl&lt;/sup&gt;s _ &lt;sup&gt;p&lt;/sup&gt;@gm g </col>
+        <col index="1">p _ n &lt;sup&gt;d&lt;/sup&gt;n </col>
+        <col index="2">su su su su </col>
+        <col index="3">n &lt;sup&gt;d&lt;/sup&gt;n su su </col>
+      </line>
+    </lines>
+  </sheet>
+</swarlipi>

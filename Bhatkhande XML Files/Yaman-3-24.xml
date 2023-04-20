@@ -1,0 +1,59 @@
+<swarlipi>
+  <info>
+    <title>Yaman-3-24</title>
+    <composer>Vishnu Narayan Bhatkhande</composer>
+    <notation-system>Bhatkhande</notation-system>
+    <year>1965</year>
+    <genre>Hindusthani</genre>
+  </info>
+  <taal>ektaal</taal>
+  <raag>yaman</raag>
+  <thaat>kalyan</thaat>
+  <sheet>
+    <lines>
+      <line index="0">
+        <col index="0">&lt;sup&gt;g&lt;/sup&gt;p  -</col>
+      </line>
+      <line index="1">
+        <col index="0">g  r  g  r</col>
+        <col index="1">s  -  s  -</col>
+        <col index="2">g  -  -  r</col>
+        <col index="3">&lt;sup&gt;nl&lt;/sup&gt;s  r  s  s</col>
+      </line>
+      <line index="2">
+        <col index="0">&lt;sup&gt;nl&lt;/sup&gt;s  s  nl  &lt;sup&gt;dl&lt;/sup&gt;nl</col>
+        <col index="1">pl  dl  pl  pl</col>
+        <col index="2">&lt;sup&gt;nl&lt;/sup&gt;s  r  g  r</col>
+        <col index="3">s  s  &lt;sup&gt;s&lt;/sup&gt;p  -</col>
+      </line>
+      <line index="3">
+        <col index="0">g  r  g  r</col>
+        <col index="1">&lt;sup&gt;nl&lt;/sup&gt;s  r  s  -</col>
+      </line>
+      <line index="4">
+        <col index="0">&lt;sup&gt;g&lt;/sup&gt;p  -  g  p</col>
+        <col index="1">p  p  d  p</col>
+        <col index="2">&lt;sup&gt;M&lt;/sup&gt;p  -  d  d</col>
+        <col index="3">&lt;sup&gt;d&lt;/sup&gt;n  &lt;sup&gt;d&lt;/sup&gt;n  (p)  -</col>
+      </line>
+      <line index="5">
+        <col index="0">&lt;sup&gt;nl&lt;/sup&gt;s  -  g  r</col>
+        <col index="1">g  g  g  -</col>
+        <col index="2">&lt;sup&gt;g&lt;/sup&gt;qpww w ep  p  (p)</col>
+        <col index="3">&lt;sup&gt;g&lt;/sup&gt;r  -  s  -</col>
+      </line>
+      <line index="6">
+        <col index="0">&lt;sup&gt;M&lt;/sup&gt;p  &lt;sup&gt;p&lt;/sup&gt;g  g  p</col>
+        <col index="1">p  p  p  -</col>
+        <col index="2">&lt;sup&gt;M&lt;/sup&gt;p  d  &lt;sup&gt;p&lt;/sup&gt;d  n</col>
+        <col index="3">&lt;sup&gt;d&lt;/sup&gt;p  d  p  -</col>
+      </line>
+      <line index="7">
+        <col index="0">&lt;sup&gt;nl&lt;/sup&gt;s  -  g  r</col>
+        <col index="1">g  -  g  -</col>
+        <col index="2">@gM  @pd  @nd  @pM</col>
+        <col index="3">@gr  @gr  s  &lt;sup&gt;s&lt;/sup&gt;p</col>
+      </line>
+    </lines>
+  </sheet>
+</swarlipi>
