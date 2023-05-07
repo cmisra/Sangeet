@@ -1,8 +1,6 @@
-(: List of compositions having Meend :)
+(: List of compositions having a particular Arohana subsequence :)
 for $songs in collection ("Bhatkhande-Database")//swarlipi
 let $title := $songs/INFO/TITLE/text()
-let $contents := $songs/SHEET/LINES/LINE/ROW/COL/CONTENT/text()
-let $notes := (for $song in $songs
-  return $song/SHEET/LINES/LINE/ROW/COL/CONTENT/text())
-return if (contains(string-join($notes , ""),"q")) then
+let $arohana := $songs/RAAG/AROHANA/text()
+return if (contains($arohana, "s-R-g")) then
   $title
