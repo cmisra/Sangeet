@@ -1,0 +1,216 @@
+<swarlipi>
+  <INFO>
+    <TITLE>Composition 150 Volume 2 Kramik Pustak Malika</TITLE>
+    <COMPOSER>Vishnu Narayan Bhatkhande</COMPOSER>
+    <NOTATION-SYSTEM>Bhatkhande</NOTATION-SYSTEM>
+    <YEAR>1923</YEAR>
+    <GENRE>Hindusthani Sangeet</GENRE>
+    <ADDITIONAL>http://ndl.iitkgp.ac.in/document/R2pPWGRxdkRWWnlvOVdPYzdzaWpTV0pYYTFIT0VnNTB6V1dnR1dJVW1kUT0</ADDITIONAL>
+  </INFO>
+  <TAAL>
+    <TAAL_NAME>Ektaal</TAAL_NAME>
+    <BIBHAGA>6</BIBHAGA>
+    <MAATRA>12</MAATRA>
+    <AVARTANA>1</AVARTANA>
+    <BEAT_PATTERN>2-2-2-2-2-2</BEAT_PATTERN>
+    <TAALI_COUNT>4</TAALI_COUNT>
+    <KHALI_COUNT>2</KHALI_COUNT>
+    <TAALI_INDEX>1-5-9-11</TAALI_INDEX>
+    <KHALI_INDEX>3-7</KHALI_INDEX>
+  </TAAL>
+  <RAAG>
+    <RAAG_NAME>Poorvi</RAAG_NAME>
+    <THAAT>Poorvi</THAAT>
+    <AROHANA>s-R-g-M-p-D-n-su</AROHANA>
+    <AVAROHANA>su-n-D-p-M-g-R-s</AVAROHANA>
+    <VADI>g</VADI>
+    <SAMVADI>n</SAMVADI>
+    <JAATI>Sampoorna-Sampoorna</JAATI>
+    <PAKAD>nl-s-R-g-m-g-N-g-R-g-R-s</PAKAD>
+  </RAAG>
+  <SHEET>
+    <TOTAL_LINES>9</TOTAL_LINES>
+    <LINES>
+      <LINE INDEX="0">
+        <ROW INDEX="0">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;g&lt;/sup&gt;M  g </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> R  s</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> nil  nil</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> @sR g</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> &lt;sup&gt;mu&lt;/sup&gt;p  @Mg </CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> M  g</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="1">
+        <ROW INDEX="1">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;p  D</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> p  D</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> M  p</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> M  g</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> M   R</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> g  g</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="2">
+        <ROW INDEX="2">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;nil  R</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> g  -</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> M  D</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> ni  D</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> R  ni</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> D  p</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="3">
+        <ROW INDEX="3">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;p  M</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> g  R</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> s  nil</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="4">
+        <ROW INDEX="4">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;g&lt;/sup&gt;M  -</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> g  -</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> &lt;sup&gt;D&lt;/sup&gt;M D</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> &lt;sup&gt;ni&lt;/sup&gt;su -</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> su  ni</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> su  su</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="5">
+        <ROW INDEX="5">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;su&lt;/sup&gt;ni  ni</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> Ru  gu</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> Ru  su</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> &lt;sup&gt;su&lt;/sup&gt;ni -</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> &lt;sup&gt;ni&lt;/sup&gt;Ru ni</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> D  p</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="6">
+        <ROW INDEX="6">
+          <COL INDEX="0">
+            <CONTENT>@Mp  D</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> M  p</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> M  g</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> M  g</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> R  g</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> R  s</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="7">
+        <ROW INDEX="7">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;nil  R</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> g  g</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> &lt;sup&gt;D&lt;/sup&gt;M  D</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> ni  D</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> Ru  ni</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> D  p</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="8">
+        <ROW INDEX="8">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;p  M</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> g  R</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> s  nil</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+    </LINES>
+  </SHEET>
+</swarlipi>

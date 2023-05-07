@@ -1,0 +1,116 @@
+<swarlipi>
+  <INFO>
+    <TITLE>Composition 161 Volume 2 Kramik Pustak Malika</TITLE>
+    <COMPOSER>Vishnu Narayan Bhatkhande</COMPOSER>
+    <NOTATION-SYSTEM>Bhatkhande</NOTATION-SYSTEM>
+    <YEAR>1923</YEAR>
+    <GENRE>Hindusthani Sangeet</GENRE>
+    <ADDITIONAL>http://ndl.iitkgp.ac.in/document/R2pPWGRxdkRWWnlvOVdPYzdzaWpTV0pYYTFIT0VnNTB6V1dnR1dJVW1kUT0</ADDITIONAL>
+  </INFO>
+  <TAAL>
+    <TAAL_NAME>Tritaal</TAAL_NAME>
+    <BIBHAGA>4</BIBHAGA>
+    <MAATRA>16</MAATRA>
+    <AVARTANA>1</AVARTANA>
+    <BEAT_PATTERN>4-4-4-4</BEAT_PATTERN>
+    <TAALI_COUNT>3</TAALI_COUNT>
+    <KHALI_COUNT>1</KHALI_COUNT>
+    <TAALI_INDEX>1-5-13</TAALI_INDEX>
+    <KHALI_INDEX>9</KHALI_INDEX>
+  </TAAL>
+  <RAAG>
+    <RAAG_NAME>Poorvi</RAAG_NAME>
+    <THAAT>Poorvi</THAAT>
+    <AROHANA>s-R-g-M-p-D-n-su</AROHANA>
+    <AVAROHANA>su-n-D-p-M-g-R-s</AVAROHANA>
+    <VADI>g</VADI>
+    <SAMVADI>n</SAMVADI>
+    <JAATI>Sampoorna-Sampoorna</JAATI>
+    <PAKAD>nl-s-R-g-m-g-N-g-R-g-R-s</PAKAD>
+  </RAAG>
+  <SHEET>
+    <TOTAL_LINES>5</TOTAL_LINES>
+    <LINES>
+      <LINE INDEX="0">
+        <ROW INDEX="0">
+          <COL INDEX="0">
+            <CONTENT> n  &lt;sup&gt;D&lt;/sup&gt;n  &lt;sup&gt;D&lt;/sup&gt;M  g </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>@gM @Rg  -  R </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> s   -  -  - </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> &lt;sup&gt;s&lt;/sup&gt;nl </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="1">
+        <ROW INDEX="1">
+          <COL INDEX="0">
+            <CONTENT> s   s  g  g</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  D  n  su </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> su  &lt;sup&gt;Ru&lt;/sup&gt;n  D  p </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> p  -  &lt;sup&gt;D&lt;/sup&gt;M  g </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="2">
+        <ROW INDEX="2">
+          <COL INDEX="0">
+            <CONTENT> M   R  g  M </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;n &lt;sup&gt;D&lt;/sup&gt;n  M  g </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>@gM  @Rg  -  R </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> s  -   -  - </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="3">
+        <ROW INDEX="3">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  @MM  M  g </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  -  D  M </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> su   su  su  su </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> su  Ru   su  - </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="4">
+        <ROW INDEX="4">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;su&lt;/sup&gt;n  Ru   gu  Ru </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> su  -  Ru  su </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> &lt;sup&gt;M&lt;/sup&gt;p  -  p </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  g  @mR  g </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+    </LINES>
+  </SHEET>
+</swarlipi>

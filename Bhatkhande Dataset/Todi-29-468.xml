@@ -1,0 +1,157 @@
+<swarlipi>
+  <INFO>
+    <TITLE>Composition 312 Volume 2 Kramik Pustak Malika</TITLE>
+    <COMPOSER>Vishnu Narayan Bhatkhande</COMPOSER>
+    <NOTATION-SYSTEM>Bhatkhande</NOTATION-SYSTEM>
+    <YEAR>1923</YEAR>
+    <GENRE>Hindusthani Sangeet</GENRE>
+    <ADDITIONAL>http://ndl.iitkgp.ac.in/document/R2pPWGRxdkRWWnlvOVdPYzdzaWpTV0pYYTFIT0VnNTB6V1dnR1dJVW1kUT0</ADDITIONAL>
+  </INFO>
+  <TAAL>
+    <TAAL_NAME>Tilwara</TAAL_NAME>
+    <BIBHAGA>4</BIBHAGA>
+    <MAATRA>16</MAATRA>
+    <AVARTANA>1</AVARTANA>
+    <BEAT_PATTERN>4-4-4-4</BEAT_PATTERN>
+    <TAALI_COUNT>3</TAALI_COUNT>
+    <KHALI_COUNT>1</KHALI_COUNT>
+    <TAALI_INDEX>1-5-13</TAALI_INDEX>
+    <KHALI_INDEX>9</KHALI_INDEX>
+  </TAAL>
+  <RAAG>
+    <RAAG_NAME>Todi</RAAG_NAME>
+    <THAAT>Todi</THAAT>
+    <AROHANA>s-R-G-M-p-D-n-su</AROHANA>
+    <AVAROHANA>su-n-D-p-M-G-R-s</AVAROHANA>
+    <VADI>d</VADI>
+    <SAMVADI>g</SAMVADI>
+    <JAATI>Sampoorna-Sampoorna</JAATI>
+    <PAKAD>Dl-nl-s-R-G-R-s-M-G-R-G-R-s</PAKAD>
+  </RAAG>
+  <SHEET>
+    <TOTAL_LINES>10</TOTAL_LINES>
+    <LINES>
+      <LINE INDEX="0">
+        <ROW INDEX="0">
+          <COL INDEX="0">
+            <CONTENT> &lt;sup&gt;M&lt;/sup&gt;D @pM @GM</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;n&lt;/sup&gt;D @_p &lt;sup&gt;D&lt;/sup&gt;M G</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;G&lt;/sup&gt;@MR G - @RR</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="1">
+        <ROW INDEX="1">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;G&lt;/sup&gt;R - s -</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;$nlRGM p &lt;sup&gt;M&lt;/sup&gt;$GMGR $nlDl</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>n</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>s @_R &lt;sup&gt;R&lt;/sup&gt;G -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="2">
+        <ROW INDEX="2">
+          <COL INDEX="0">
+            <CONTENT>$MpDn @_D &lt;sup&gt;D&lt;/sup&gt;pD &lt;sup&gt;G&lt;/sup&gt;@MG</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M D &lt;sup&gt;n&lt;/sup&gt;D @_D</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;su @nsu &lt;sup&gt;Gu&lt;/sup&gt;Ru su</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="3">
+        <ROW INDEX="3">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;n&lt;/sup&gt;@Dn @suRu &lt;sup&gt;Ru&lt;/sup&gt;Gu -</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;Ru&lt;/sup&gt;n @_D &lt;sup&gt;D&lt;/sup&gt;@MD @nsu</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>Ru@suRu $GuGuRusu $nDpM</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="4">
+        <ROW INDEX="4">
+          <COL INDEX="0">
+            <CONTENT>$GRss &lt;sup&gt;M&lt;/sup&gt;@_D @pM @GM</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="5">
+        <ROW INDEX="5">
+          <COL INDEX="0">
+            <CONTENT> &lt;sup&gt;D&lt;/sup&gt;@_M @Dn</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>su @nsu @_n @suRu</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;Ru&lt;/sup&gt;n D @Dn @suRu</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="6">
+        <ROW INDEX="6">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;Ru&lt;/sup&gt;Gu Ru @sun @suRu</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;Ru&lt;/sup&gt;n D p -</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;$MpDn D p &lt;sup&gt;D&lt;/sup&gt;@MG</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="7">
+        <ROW INDEX="7">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M D D @_D</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>n su @_D @nsu</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;Gu&lt;/sup&gt;Ru - su -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="8">
+        <ROW INDEX="8">
+          <COL INDEX="0">
+            <CONTENT>n @Ru_ Ru @GuRu</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>Gu @MGu pu -</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>@Mpu $MGuGuRu $sunDp $MGrs</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="9">
+        <ROW INDEX="9">
+          <COL INDEX="0">
+            <CONTENT>s @_D @pM @GM</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+    </LINES>
+  </SHEET>
+</swarlipi>

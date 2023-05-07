@@ -1,0 +1,152 @@
+<swarlipi>
+  <INFO>
+    <TITLE>Composition 172 Volume 2 Kramik Pustak Malika</TITLE>
+    <COMPOSER>Vishnu Narayan Bhatkhande</COMPOSER>
+    <NOTATION-SYSTEM>Bhatkhande</NOTATION-SYSTEM>
+    <YEAR>1923</YEAR>
+    <GENRE>Hindusthani Sangeet</GENRE>
+    <ADDITIONAL>http://ndl.iitkgp.ac.in/document/R2pPWGRxdkRWWnlvOVdPYzdzaWpTV0pYYTFIT0VnNTB6V1dnR1dJVW1kUT0</ADDITIONAL>
+  </INFO>
+  <TAAL>
+    <TAAL_NAME>Ektaal</TAAL_NAME>
+    <BIBHAGA>6</BIBHAGA>
+    <MAATRA>12</MAATRA>
+    <AVARTANA>1</AVARTANA>
+    <BEAT_PATTERN>2-2-2-2-2-2</BEAT_PATTERN>
+    <TAALI_COUNT>4</TAALI_COUNT>
+    <KHALI_COUNT>2</KHALI_COUNT>
+    <TAALI_INDEX>1-5-9-11</TAALI_INDEX>
+    <KHALI_INDEX>3-7</KHALI_INDEX>
+  </TAAL>
+  <RAAG>
+    <RAAG_NAME>Poorvi</RAAG_NAME>
+    <THAAT>Poorvi</THAAT>
+    <AROHANA>s-R-g-M-p-D-n-su</AROHANA>
+    <AVAROHANA>su-n-D-p-M-g-R-s</AVAROHANA>
+    <VADI>g</VADI>
+    <SAMVADI>n</SAMVADI>
+    <JAATI>Sampoorna-Sampoorna</JAATI>
+    <PAKAD>nl-s-R-g-m-g-N-g-R-g-R-s</PAKAD>
+  </RAAG>
+  <SHEET>
+    <TOTAL_LINES>5</TOTAL_LINES>
+    <LINES>
+      <LINE INDEX="0">
+        <ROW INDEX="0">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;$nRgg -</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;#gMM #-gM</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;R&lt;/sup&gt;qgw w-w</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>eR s</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;R s</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT>- @ns</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="1">
+        <ROW INDEX="1">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;%nlsRRs @nlR</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>g @Rs</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;%nlsRRs @nl</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;@nlR @gR</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>g -</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;^glMMmmg m</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="2">
+        <ROW INDEX="2">
+          <COL INDEX="0">
+            <CONTENT>@gR &lt;sup&gt;R&lt;/sup&gt;p</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>- @Mp</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;qpw wDw</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>eM @pM</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>g m</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT>g -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="3">
+        <ROW INDEX="3">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;#M</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>MD @Mg</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M @Dp</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>su @sun</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>Ru su</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT>$RuRusun #su</CONTENT>
+          </COL>
+          <COL INDEX="6">
+            <CONTENT>nD</CONTENT>
+          </COL>
+          <COL INDEX="7">
+            <CONTENT>n D</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="4">
+        <ROW INDEX="4">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;su&lt;/sup&gt;n @Run</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>@nD p</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;qpw wDw</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>eM @pM</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>g m</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT>g -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+    </LINES>
+  </SHEET>
+</swarlipi>

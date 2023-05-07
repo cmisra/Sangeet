@@ -1,0 +1,340 @@
+<swarlipi>
+  <INFO>
+    <TITLE>Composition 176 Volume 2 Kramik Pustak Malika</TITLE>
+    <COMPOSER>Vishnu Narayan Bhatkhande</COMPOSER>
+    <NOTATION-SYSTEM>Bhatkhande</NOTATION-SYSTEM>
+    <YEAR>1923</YEAR>
+    <GENRE>Hindusthani Sangeet</GENRE>
+    <ADDITIONAL>http://ndl.iitkgp.ac.in/document/R2pPWGRxdkRWWnlvOVdPYzdzaWpTV0pYYTFIT0VnNTB6V1dnR1dJVW1kUT0</ADDITIONAL>
+  </INFO>
+  <TAAL>
+    <TAAL_NAME>Sultaal</TAAL_NAME>
+    <BIBHAGA>5</BIBHAGA>
+    <MAATRA>10</MAATRA>
+    <AVARTANA>1</AVARTANA>
+    <BEAT_PATTERN>2-2-2-2-2</BEAT_PATTERN>
+    <TAALI_COUNT>3</TAALI_COUNT>
+    <KHALI_COUNT>1</KHALI_COUNT>
+    <TAALI_INDEX>1-5-7</TAALI_INDEX>
+    <KHALI_INDEX>3</KHALI_INDEX>
+  </TAAL>
+  <RAAG>
+    <RAAG_NAME>Poorvi</RAAG_NAME>
+    <THAAT>Poorvi</THAAT>
+    <AROHANA>s-R-g-M-p-D-n-su</AROHANA>
+    <AVAROHANA>su-n-D-p-M-g-R-s</AVAROHANA>
+    <VADI>g</VADI>
+    <SAMVADI>n</SAMVADI>
+    <JAATI>Sampoorna-Sampoorna</JAATI>
+    <PAKAD>nl-s-R-g-m-g-N-g-R-g-R-s</PAKAD>
+  </RAAG>
+  <SHEET>
+    <TOTAL_LINES>16</TOTAL_LINES>
+    <LINES>
+      <LINE INDEX="0">
+        <ROW INDEX="0">
+          <COL INDEX="0">
+            <CONTENT> </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> p  M </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="1">
+        <ROW INDEX="1">
+          <COL INDEX="0">
+            <CONTENT> D  n </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> su  su </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> p  p </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="2">
+        <ROW INDEX="2">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  D </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> M  g </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> M  R </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> g  R </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> s  s </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="3">
+        <ROW INDEX="3">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;nl  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> s  R </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> g  - </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;p  @pM </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> D  M </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="4">
+        <ROW INDEX="4">
+          <COL INDEX="0">
+            <CONTENT> D  n </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> su  su </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;n  D </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;p  M </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="5">
+        <ROW INDEX="5">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;p&lt;/sup&gt;M  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> D  n </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> su  n </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> su  - </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> su  su </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="6">
+        <ROW INDEX="6">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;su&lt;/sup&gt;n  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> su  Ru </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> -  su </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> n  su </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> n  @Dp </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="7">
+        <ROW INDEX="7">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  @MD </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> M  g </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> M  R </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> g  R </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> s  s </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="8">
+        <ROW INDEX="8">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;nl&lt;/sup&gt;s  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;su  - </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;p  M </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="9">
+        <ROW INDEX="9">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;nl&lt;/sup&gt;s  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;p  - </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> p  M </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> D  - </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> p  p </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="10">
+        <ROW INDEX="10">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;p  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> M  - </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> D  - </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> p  p </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="11">
+        <ROW INDEX="11">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  &lt;sup&gt;D&lt;/sup&gt;M </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> -  g </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> M  R </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> M  g </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> R  s </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="12">
+        <ROW INDEX="12">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> D  n </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> su  su </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> su  - </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> Ru  su </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="13">
+        <ROW INDEX="13">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;su&lt;/sup&gt;n  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> Ru  gu </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> Ru  su </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;su&lt;/sup&gt;Ru  n </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> D  p </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="14">
+        <ROW INDEX="14">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M  - </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT> D  &lt;sup&gt;D&lt;/sup&gt;M </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> -  @gR </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> g  R </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> s  - </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="15">
+        <ROW INDEX="15">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;nl&lt;/sup&gt;s  s </CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;su  - </CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> n  D </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> p  M </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+    </LINES>
+  </SHEET>
+</swarlipi>

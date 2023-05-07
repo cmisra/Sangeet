@@ -1,0 +1,134 @@
+<swarlipi>
+  <INFO>
+    <TITLE>Composition 170 Volume 2 Kramik Pustak Malika</TITLE>
+    <COMPOSER>Vishnu Narayan Bhatkhande</COMPOSER>
+    <NOTATION-SYSTEM>Bhatkhande</NOTATION-SYSTEM>
+    <YEAR>1923</YEAR>
+    <GENRE>Hindusthani Sangeet</GENRE>
+    <ADDITIONAL>http://ndl.iitkgp.ac.in/document/R2pPWGRxdkRWWnlvOVdPYzdzaWpTV0pYYTFIT0VnNTB6V1dnR1dJVW1kUT0</ADDITIONAL>
+  </INFO>
+  <TAAL>
+    <TAAL_NAME>Tritaal</TAAL_NAME>
+    <BIBHAGA>4</BIBHAGA>
+    <MAATRA>16</MAATRA>
+    <AVARTANA>1</AVARTANA>
+    <BEAT_PATTERN>4-4-4-4</BEAT_PATTERN>
+    <TAALI_COUNT>3</TAALI_COUNT>
+    <KHALI_COUNT>1</KHALI_COUNT>
+    <TAALI_INDEX>1-5-13</TAALI_INDEX>
+    <KHALI_INDEX>9</KHALI_INDEX>
+  </TAAL>
+  <RAAG>
+    <RAAG_NAME>Poorvi</RAAG_NAME>
+    <THAAT>Poorvi</THAAT>
+    <AROHANA>s-R-g-M-p-D-n-su</AROHANA>
+    <AVAROHANA>su-n-D-p-M-g-R-s</AVAROHANA>
+    <VADI>g</VADI>
+    <SAMVADI>n</SAMVADI>
+    <JAATI>Sampoorna-Sampoorna</JAATI>
+    <PAKAD>nl-s-R-g-m-g-N-g-R-g-R-s</PAKAD>
+  </RAAG>
+  <SHEET>
+    <TOTAL_LINES>5</TOTAL_LINES>
+    <LINES>
+      <LINE INDEX="0">
+        <ROW INDEX="0">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;@M</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>D &lt;sup&gt;D&lt;/sup&gt;$M-</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>gM &lt;sup&gt;R&lt;/sup&gt;g @Rs</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>$RRsnl</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> @sr g @mg</CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT>$gMRg &lt;sup&gt;g&lt;/sup&gt;p - @pp</CONTENT>
+          </COL>
+          <COL INDEX="6">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;@MD @Rn D p</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="1">
+        <ROW INDEX="1">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;@pM D M @gM</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;R&lt;/sup&gt;qgw w-w wRw es</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;nl&lt;/sup&gt;@sn - D #M</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>gM</CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT>&lt;sup&gt;R&lt;/sup&gt;qgw w-w eR s</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="2">
+        <ROW INDEX="2">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;@m</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>D #M</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>gM &lt;sup&gt;R&lt;/sup&gt;g Rs</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT> </CONTENT>
+          </COL>
+          <COL INDEX="4">
+            <CONTENT> </CONTENT>
+          </COL>
+          <COL INDEX="5">
+            <CONTENT> </CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="3">
+        <ROW INDEX="3">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;M D su @sun</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>Ru - su -</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;n&lt;/sup&gt;su (su) n D</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;n @Run D p</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="4">
+        <ROW INDEX="4">
+          <COL INDEX="0">
+            <CONTENT>M &lt;sup&gt;D&lt;/sup&gt;g M D</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>n @Run D @pp</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;M&lt;/sup&gt;@pM D M @gM</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;R&lt;/sup&gt;qgw w-w wRw es</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+    </LINES>
+  </SHEET>
+</swarlipi>
