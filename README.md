@@ -7,6 +7,8 @@ The dataset is a collection of XML files. Each XML file corresponds to a composi
 Currently the dataset consits of 116 XML files belonging to raag _Bhairav_, _Todi_, and _Poorvi_. The frequencies of compositions for each of these three rags are 42, 39, and 35 respectively.
 
 ## Music-sheet Visualization
+The music-sheets of the compositions is rendered using [Ome Swarlipi](https://omenad.github.io/fonts/ome-swarlipi/) fonts and style engine. A sample HTML music-sheet is given in <code>Visualization</code> directory. It also contains a converter to transform XML file to music-sheet HTML file.
+
 
 ## Query the Dataset using XQuery
 There are four queries written in XQuery inside <code>XQuery Files</code>. In order to run the queries an XML database needs to be created from the XML files. We have used BaseX for that. The queries can be written and run the BaseX editor itself.
