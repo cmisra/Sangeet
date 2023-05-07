@@ -1,0 +1,158 @@
+<swarlipi>
+  <INFO>
+    <TITLE>Composition 114 Volume 2 Kramik Pustak Malika</TITLE>
+    <COMPOSER>Vishnu Narayan Bhatkhande</COMPOSER>
+    <NOTATION-SYSTEM>Bhatkhande</NOTATION-SYSTEM>
+    <YEAR>1923</YEAR>
+    <GENRE>Hindusthani Sangeet</GENRE>
+    <ADDITIONAL>http://ndl.iitkgp.ac.in/document/R2pPWGRxdkRWWnlvOVdPYzdzaWpTV0pYYTFIT0VnNTB6V1dnR1dJVW1kUT0</ADDITIONAL>
+  </INFO>
+  <TAAL>
+    <TAAL_NAME>Tritaal</TAAL_NAME>
+    <BIBHAGA>4</BIBHAGA>
+    <MAATRA>16</MAATRA>
+    <AVARTANA>1</AVARTANA>
+    <BEAT_PATTERN>4-4-4-4</BEAT_PATTERN>
+    <TAALI_COUNT>3</TAALI_COUNT>
+    <KHALI_COUNT>1</KHALI_COUNT>
+    <TAALI_INDEX>1-5-13</TAALI_INDEX>
+    <KHALI_INDEX>9</KHALI_INDEX>
+  </TAAL>
+  <RAAG>
+    <RAAG_NAME>Bhairav</RAAG_NAME>
+    <THAAT>Bhairav</THAAT>
+    <AROHANA>s-R-g-m-p-D-n-su</AROHANA>
+    <AVAROHANA>su-n-D-p-m-g-R-s</AVAROHANA>
+    <VADI>D</VADI>
+    <SAMVADI>R</SAMVADI>
+    <JAATI>Sampoorna-Sampoorna</JAATI>
+    <PAKAD>s-g-m-p-D-p</PAKAD>
+  </RAAG>
+  <SHEET>
+    <TOTAL_LINES>8</TOTAL_LINES>
+    <LINES>
+      <LINE INDEX="0">
+        <ROW INDEX="0">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;m&lt;/sup&gt;g  m  &lt;sup&gt;ni&lt;/sup&gt;D  D</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>p  -  &lt;sup&gt;p&lt;/sup&gt;D  @mp</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>@DD  @mp  p  -</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>m  g  &lt;sup&gt;m&lt;/sup&gt;p  @mg</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="1">
+        <ROW INDEX="1">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;g&lt;/sup&gt;R  -  -  -</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>s  -  -  -</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>@sR  g  m  (m)</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;g&lt;/sup&gt;R  R  s  -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="2">
+        <ROW INDEX="2">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;nil  s  g  m</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>p  D  ni  su</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;su&lt;/sup&gt;Ru  -  su  &lt;sup&gt;ni&lt;/sup&gt;D</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>Ni  @Dp  &lt;sup&gt;p&lt;/sup&gt;g  m</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="3">
+        <ROW INDEX="3">
+          <COL INDEX="0">
+            <CONTENT>p  p  p  p</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;ni&lt;/sup&gt;D  D  ni  ni</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>su  su  su  -</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>ni  su  su  -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="4">
+        <ROW INDEX="4">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;ni&lt;/sup&gt;D  -  D  -</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>ni  -  su  su</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>Ru  Ru  su  -</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>ni  su  &lt;sup&gt;ni&lt;/sup&gt;D  p</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="5">
+        <ROW INDEX="5">
+          <COL INDEX="0">
+            <CONTENT>g  m  p  D</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>&lt;sup&gt;D&lt;/sup&gt;su  su  &lt;sup&gt;ni&lt;/sup&gt;D  p</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>m  g  (m)  g</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>&lt;sup&gt;g&lt;/sup&gt;R  -  s  -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="6">
+        <ROW INDEX="6">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;s&lt;/sup&gt;nil  s  s  &lt;sup&gt;m&lt;/sup&gt;g</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>-  m  p  p</CONTENT>
+          </COL>
+          <COL INDEX="2">
+            <CONTENT>&lt;sup&gt;ni&lt;/sup&gt;D  -  ni  ni</CONTENT>
+          </COL>
+          <COL INDEX="3">
+            <CONTENT>su  -  su  -</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+      <LINE INDEX="7">
+        <ROW INDEX="7">
+          <COL INDEX="0">
+            <CONTENT>&lt;sup&gt;p&lt;/sup&gt;D  &lt;sup&gt;D&lt;/sup&gt;Ru  @suni  D</CONTENT>
+          </COL>
+          <COL INDEX="1">
+            <CONTENT>Ni  @Dp  m  g</CONTENT>
+          </COL>
+        </ROW>
+      </LINE>
+    </LINES>
+  </SHEET>
+</swarlipi>
