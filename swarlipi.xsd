@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<!-- ROOT ELEMENT SWARALIPI AND ITS FIVE CHILD ELEMENTS -->
+	<xs:element name="swarlipi">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="INFO" type="InfoType" />
+				<xs:element name="TAAL" type="TaalType" />
+				<xs:element name="RAAG" type="RaagType" />
+				<xs:element name="SHEET" type="SheetType" />
+			</xs:sequence>
+		</xs:complexType>
+
+		<!-- INFO ELEMENT -->
+		<xs:complexType name="InfoType">
+			<xs:sequence>
+				<xs:element name="TITLE" type="xs:string" />
+				<xs:element name="COMPOSER" type="xs:string" />
+				<xs:element name="NOTATION_SYSTEM" type="xs:notationSystemType" />								
+				<xs:element name="YEAR" type="xs:dateTime" />
+				<xs:element name="GENRE" type="xs:string" />
+				<xs:element name="ADDITIONAL" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+
+		<!-- NOTATION SYSTEM MUST BE ONE OF THE FOLLOWING FIVE CHOICES -->
+		<xs:simpleType name="notationSystemType">
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="Akarmatrik" />
+				<xs:enumeration value="Bhatkhande" />
+				<xs:enumeration value="Paluskar" />
+				<xs:enumeration value="Dandamatrik" />
+				<xs:enumeration value="Najrul" />
+			</xs:restriction>
+		</xs:simpleType>
+
+		<!-- THE TAALA ELEMENT -->
+		<xs:complexType name="TaalType">
+			<xs:sequence>
+				<xs:element name="TAAL_NAME" type="taalNameType" />
+				<xs:element name="BIBHAGA" type="bibhagaType" />
+				<xs:element name="MAATRA" type="maatraType" />
+				<xs:element name="AVARTANA" type="xs:integer" />
+				<xs:element name="BEAT_PATTERN" type="xs:string" />			
+				<xs:element name="ALTERNATE_BEAT_PATTERN" type="xs:string" />	
+				<xs:element name="TAALI_COUNT" type="xs:integer" />
+				<xs:element name="KHALI_COUNT" type="xs:integer" />
+				<xs:element name="TAALI_INDEX" type="xsd-string" />
+				<xs:element name="KHALI_INDEX" type="xs:string" />
+			</xs:sequence>
+		</xs:complexType>
+
+		<!-- THE TAALA NAME MUST BE ONE OF THE FOLLOWING LIST OF CHOICES -->
+		<xs:simpleType name="taalNameType">
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="Abhinandan" />
+				<xs:enumeration value="Abhiram" />
+				<xs:enumeration value="Ada Chau Taal" />
+				<xs:enumeration value="Addha" />
+				<xs:enumeration value="Anka" />
+				<xs:enumeration value="Antarkrida" />
+				<xs:enumeration value="Ardhya" />
+				<xs:enumeration value="Arjun" />
+				<xs:enumeration value="Arnima" />
+				<xs:enumeration value="Aryaa" />
+				<xs:enumeration value="Ashtamangal" />
+				<xs:enumeration value="Anka" />
+				<xs:enumeration value="At" />
+				<xs:enumeration value="Bhajni Theka" />
+				<xs:enumeration value="Brahma Taal" />
+				<xs:enumeration value="Chachar" />
+				<xs:enumeration value="Chak Taal" />
+				<xs:enumeration value="Chau Taal" />
+				<xs:enumeration value="Dadra" />
+				<xs:enumeration value="Deepchandi" />
+				<xs:enumeration value="Dhamar" />
+				<xs:enumeration value="Dhruvataal" />
+				<xs:enumeration value="Dhumali" />
+				<xs:enumeration value="Ek Taal" />
+				<xs:enumeration value="Gaja Jhampaa" />
+				<xs:enumeration value="Gajamukh" />
+				<xs:enumeration value="Hauns Vilas" />
+				<xs:enumeration value="Iktaali" />
+				<xs:enumeration value="Ikwai" />
+				<xs:enumeration value="Indra" />
+				<xs:enumeration value="Indraleen" />
+				<xs:enumeration value="Jai Taal" />
+				<xs:enumeration value="Jat" />
+				<xs:enumeration value="Jhap Taal" />
+				<xs:enumeration value="Jhoomra" />
+				<xs:enumeration value="Kalawati" />
+				<xs:enumeration value="Kandarpa" />
+				<xs:enumeration value="kapaalabhruta" />
+				<xs:enumeration value="Kawwali" />
+				<xs:enumeration value="Kehewa" />
+				<xs:enumeration value="Mani Taal" />
+				<xs:enumeration value="Matta Taal" />
+				<xs:enumeration value="Panchanan" />
+				<xs:enumeration value="Pashto" />
+				<xs:enumeration value="Punjabi" />
+				<xs:enumeration value="Roopak" />
+				<xs:enumeration value="Rudra Taal" />
+				<xs:enumeration value="Sadanand" />
+				<xs:enumeration value="Char Taal Ki Sawari" />
+				<xs:enumeration value="Pancham Sawari" />
+				<xs:enumeration value="Shikhar" />
+				<xs:enumeration value="Sujan Shikhar" />
+				<xs:enumeration value="Sul" />
+				<xs:enumeration value="Sul Phaktaa" />
+				<xs:enumeration value="Sulfakta" />
+				<xs:enumeration value="Sunand Taal" />
+				<xs:enumeration value="Tappe Ka Taal" />
+				<xs:enumeration value="Teen Taal" />
+				<xs:enumeration value="Tevra" />
+				<xs:enumeration value="Tilwada" />
+				<xs:enumeration value="Uday" />
+				<xs:enumeration value="Udeerna" />
+				<xs:enumeration value="Ukshav" />
+				<xs:enumeration value="Ushakiran" />
+				<xs:enumeration value="Vikram Taal" />
+				<xs:enumeration value="Yog" />
+			</xs:restriction>
+		</xs:simpleType>
+
+		<!-- THE BIBHAGA MUST BE AN INTEGER. (MIN AND MAX VALUE TO BE SET) -->
+		<xs:element name="bibhagaType">
+			<xs:simpleType>
+				<xs:restriction base="xs:integer">
+					<xs:minInclusive value="1" />
+					<xs:maxInclusive value="14" />
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+
+		<!-- THE MAATRA MUST BE AN INTEGER. (MIN AND MAX VALUE TO BE SET) -->
+		<xs:element name="maatraType">
+			<xs:simpleType>
+				<xs:restriction base="xs:integer">
+					<xs:minInclusive value="3" />
+					<xs:maxInclusive value="28" />
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:element>
+
+		<!-- THE RAAG ELEMENT -->
+		<xs:complexType name="RaagType">
+			<xs:sequence>
+				<xs:element name="RAAG_NAME" type="xs:string" />
+				<xs:element name="THAAT" type="xs:string" />
+				<xs:element name="AROHANA" type="xs:string" />
+				<xs:element name="AVAROHANA" type="xs:string" />
+				<xs:element name="VADI" type="xs:string" />			
+				<xs:element name="SAMVAADI" type="xs:string" />
+				<xs:element name="JAATI" type="xs:string" />
+				<xs:element name="PAKAD" type="xs:string" />			
+			</xs:sequence>
+		</xs:complexType>
+
+		<!-- THE SHEET ELEMENT -->
+		<xs:complexType name="SheetType">
+			<xs:sequence>
+				<xs:element name="TOTAL_LINE" type="xs:integer" />
+				<xs:element name="LINES" type="LinesType" />				
+			</xs:sequence>
+		</xs:complexType>
+
+		<!-- THE LINES ELEMENT -->
+		<xs:complexType name="LinesType">
+			<xs:sequence>
+				<xs:element name="LINE" type="LineType" />
+			</xs:sequence>
+		</xs:complexType>
+
+		<!-- THE LINE ELEMENT -->
+		<xs:element name="LineType">
+			<xs:sequence>
+				<xs:element name="ROW" type="RowType" />
+			</xs:sequence>
+			<xs:complexType>
+				<xs:attribute name="INDEX" type="xs:integer"/>
+			</xs:complexType>
+		</xs:element>
+
+		<!-- THE ROW ELEMENT -->
+		<xs:element name="RowType">
+			<xs:sequence>
+				<xs:element name="COL" type="ColType" />			
+			</xs:sequence>
+			<xs:complexType>
+				<xs:attribute name="INDEX" type="xs:integer"/>
+			</xs:complexType>
+		</xs:element>
+
+		<!-- THE COL ELEMENT -->
+		<xs:element name="ColType">
+			<xs:sequence>
+				<xs:element name="CONTENT" type="xs:string" />			
+			</xs:sequence>
+			<xs:complexType>
+				<xs:attribute name="INDEX" type="xs:integer"/>
+			</xs:complexType>
+		</xs:element>
+	</xs:element>
+</xs:schema>
